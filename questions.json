@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -1038,5 +1039,1045 @@
     },
     "correct": "B",
     "rationale": "According to Physiology Digestive system 1.pdf (Page 7), cholecystokinin (CCK) is produced by the duodenal mucosa in response to fatty chyme. It increases output of enzyme-rich pancreatic juice and stimulates the gallbladder to contract and expel stored bile. It also inhibits stomach secretory activity. Answer Key Summary Q# Answer Q# Answer Q# Answer Q# Answer 1 B 21 B 41 B 61 C 2 A 22 C 42 C 62 B 3 C 23 B 43 B 63 B 4 B 24 B 44 B 64 C 5 B 25 C 45 B 65 B 6 B 26 D 46 C 66 B 7 B 27 B 47 B 67 B 8 B 28 B 48 C 68 B 9 B 29 C 49 B 69 B 10 B 30 B 50 B 70 B 11 B 31 C 51 B 71 C 12 B 32 C 52 D 72 C 13 C 33 C 53 B 73 B 14 D 34 B 54 B 74 B 15 B 35 B 55 C 75 C 16 A 36 B 56 B 76 B 17 B 37 B 57 B 77 B 18 C 38 B 58 C 78 B 19 B 39 B 59 B 79 B 20 B 40 B 60 C 80 B"
+  },
+  {
+    "id": 81,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A patient is scheduled for an exploratory laparotomy. The surgeon explains that they will be accessing the \"alimentary canal.\" Which organ would the nurse expect to be included in this specific category?",
+    "choices": {
+      "A": "Liver",
+      "B": "Pancreas",
+      "C": "Small intestine",
+      "D": "Gallbladder"
+    },
+    "correct": "C",
+    "rationale": "The alimentary canal is the continuous muscular tube from mouth to anus, including the mouth, pharynx, esophagus, stomach, small intestine, large intestine, and anus. Liver, pancreas, and gallbladder are accessory organs."
+  },
+  {
+    "id": 82,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A student nurse is reviewing the histological layers of the GI tract. Which layer is correctly matched with its primary function?",
+    "choices": {
+      "A": "Mucosa: Responsible for peristalsis and segmentation.",
+      "B": "Submucosa: Contains blood vessels, lymphatic follicles, and nerve plexuses.",
+      "C": "Muscularis externa: Outermost layer that anchors the esophagus to surrounding structures.",
+      "D": "Serosa: The layer in direct contact with the lumen, secreting mucus."
+    },
+    "correct": "B",
+    "rationale": "The submucosa consists of connective tissue, blood/lymphatic vessels, and nerve plexuses. The muscularis externa is for movement, and the mucosa lines the lumen."
+  },
+  {
+    "id": 83,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "During a physical exam, a patient reports pain in the \"retroperitoneal space.\" Based on anatomical organization, which organ could be the source of this pain?",
+    "choices": {
+      "A": "Stomach",
+      "B": "Jejunum",
+      "C": "Pancreas",
+      "D": "Ileum"
+    },
+    "correct": "C",
+    "rationale": "The pancreas is a retroperitoneal organ. The stomach, jejunum, and ileum are intraperitoneal."
+  },
+  {
+    "id": 84,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A patient is diagnosed with an infection in the peritoneal cavity. The nurse knows that this \"potential space\" is located between which two structures?",
+    "choices": {
+      "A": "The mucosa and submucosa.",
+      "B": "The visceral peritoneum and the parietal peritoneum.",
+      "C": "The greater omentum and the lesser omentum.",
+      "D": "The circular and longitudinal muscle layers."
+    },
+    "correct": "B",
+    "rationale": "The peritoneal cavity is the fluid-filled space between the visceral peritoneum (on organ surfaces) and parietal peritoneum (lining the body wall)."
+  },
+  {
+    "id": 85,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A patient has a blockage in the mesentery. The nurse understands that this condition is critical because the mesentery provides which essential function?",
+    "choices": {
+      "A": "Secretion of digestive enzymes.",
+      "B": "Routes for blood vessels, lymphatics, and nerves to reach the organs.",
+      "C": "Mechanical breakdown of plant cell walls.",
+      "D": "Neutralization of acidic chyme using bicarbonate."
+    },
+    "correct": "B",
+    "rationale": "Mesentery is a double layer of peritoneum that provides routes for blood vessels, lymphatics, and nerves, and holds organs in place."
+  },
+  {
+    "id": 86,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A biopsy of a patient’s esophagus shows a change from stratified squamous epithelium to simple columnar epithelium. At which anatomical junction was this biopsy most likely taken?",
+    "choices": {
+      "A": "Junction of the pharynx and esophagus.",
+      "B": "Junction of the esophagus and stomach.",
+      "C": "Junction of the stomach and duodenum.",
+      "D": "Junction of the ileum and cecum."
+    },
+    "correct": "B",
+    "rationale": "The esophageal mucosa contains stratified squamous epithelium which changes to simple columnar at the stomach."
+  },
+  {
+    "id": 87,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "While reviewing the histology of the digestive tract, the nurse identifies the \"Myenteric nerve plexus.\" Where is this plexus located?",
+    "choices": {
+      "A": "Within the lamina propria of the mucosa.",
+      "B": "Between the circular and longitudinal layers of the muscularis externa.",
+      "C": "In the fibrous adventitia of the esophagus.",
+      "D": "Attached to the visceral peritoneum."
+    },
+    "correct": "B",
+    "rationale": "The myenteric nerve plexus is located between the circular and longitudinal muscle layers of the muscularis externa and controls GI motility."
+  },
+  {
+    "id": 88,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A patient is admitted with a rupture of the \"serosa\" in the abdominal cavity. Which histological layer does this correspond to?",
+    "choices": {
+      "A": "The innermost lining of the lumen.",
+      "B": "The layer containing the submucosal nerve plexus.",
+      "C": "The outermost layer of the intraperitoneal organs.",
+      "D": "The layer responsible for forming sphincters."
+    },
+    "correct": "C",
+    "rationale": "The serosa is the outermost layer of the alimentary canal in the abdominal cavity."
+  },
+  {
+    "id": 89,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A nurse is explaining the anatomy of the peritoneum to a student. Which term describes the structure that anchors the liver to the stomach?",
+    "choices": {
+      "A": "Falciform ligament",
+      "B": "Greater omentum",
+      "C": "Lesser omentum",
+      "D": "Mesentery proper"
+    },
+    "correct": "C",
+    "rationale": "The lesser omentum anchors the liver to the stomach."
+  },
+  {
+    "id": 90,
+    "section": "Part 1: General Organization, Peritoneum, and Histology",
+    "stem": "A patient presents with a defect in the \"Muscularis mucosae.\" In which major histological layer is this sublayer found?",
+    "choices": {
+      "A": "Mucosa",
+      "B": "Submucosa",
+      "C": "Muscularis externa",
+      "D": "Serosa"
+    },
+    "correct": "A",
+    "rationale": "The mucosa is made up of three sublayers: epithelium, lamina propria, and muscularis mucosae. -------------------------------------------------------------------------------- Part 2: Oral Cavity, Pharynx, and Esophagus"
+  },
+  {
+    "id": 91,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A 5-year-old child is in the clinic for a dental check-up. The nurse notes the child has 20 teeth. Which dental formula represents this primary (deciduous) dentition?",
+    "choices": {
+      "A": "2I, 1C, 2M (upper); 2I, 1C, 2M (lower) x 2",
+      "B": "2I, 1C, 2PM, 3M (upper); 2I, 1C, 2PM, 3M (lower) x 2",
+      "C": "1I, 2C, 2M (upper); 1I, 2C, 2M (lower) x 2",
+      "D": "2I, 2C, 1M (upper); 2I, 2C, 1M (lower) x 2"
+    },
+    "correct": "A",
+    "rationale": "The primary dental formula is 2 Incisors, 1 Canine, 2 Molars per quadrant, totaling 20 teeth."
+  },
+  {
+    "id": 92,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A patient reports a loss of taste on the lateral aspects of the posterior tongue. Which type of papillae is most likely involved?",
+    "choices": {
+      "A": "Filiform",
+      "B": "Fungiform",
+      "C": "Vallate",
+      "D": "Foliate"
+    },
+    "correct": "D",
+    "rationale": "Foliate papillae are located on the lateral aspects of the posterior tongue."
+  },
+  {
+    "id": 93,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "During an oral examination, the nurse asks the patient to stick out their tongue to check its position. Which muscles are primarily responsible for altering the tongue’s position?",
+    "choices": {
+      "A": "Intrinsic muscles",
+      "B": "Extrinsic muscles",
+      "C": "Pharyngeal constrictors",
+      "D": "Masseter muscles"
+    },
+    "correct": "B",
+    "rationale": "Extrinsic muscles alter the tongue’s position; intrinsic muscles change its shape."
+  },
+  {
+    "id": 94,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A patient has a blockage in the parotid duct. Where should the nurse inspect for the opening of this duct?",
+    "choices": {
+      "A": "At the base of the lingual frenulum.",
+      "B": "Under the tongue in the floor of the mouth.",
+      "C": "In the oral vestibule next to the second upper molar.",
+      "D": "Posterior to the vallate papillae on the tongue."
+    },
+    "correct": "C",
+    "rationale": "The parotid duct opens into the oral vestibule next to the second upper molar."
+  },
+  {
+    "id": 95,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A patient is diagnosed with \"Xerostomia\" (dry mouth) due to stress. The nurse understands this is caused by which physiological mechanism?",
+    "choices": {
+      "A": "Parasympathetic stimulation of cranial nerves VII and IX.",
+      "B": "Sympathetic stimulation (T1–T3) producing viscous saliva.",
+      "C": "Increased release of lysozyme and IgA.",
+      "D": "Relaxation of the upper esophageal sphincter."
+    },
+    "correct": "B",
+    "rationale": "Sympathetic stimulation (T1-T3) produces viscous saliva, leading to a dry mouth feeling during stress."
+  },
+  {
+    "id": 96,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "During the \"Buccal phase\" of swallowing, which event occurs?",
+    "choices": {
+      "A": "The uvula and larynx rise to block respiratory passages.",
+      "B": "The tongue presses against the hard palate, forcing the bolus into the oropharynx.",
+      "C": "The upper esophageal sphincter relaxes.",
+      "D": "Peristalsis moves the food through the esophagus."
+    },
+    "correct": "B",
+    "rationale": "The buccal phase is voluntary; the tongue presses against the hard palate to move the bolus."
+  },
+  {
+    "id": 97,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A patient with GERD (Gastroesophageal Reflux Disease) complains of \"heartburn.\" Which structure is failing to maintain its physiological function?",
+    "choices": {
+      "A": "Upper esophageal sphincter",
+      "B": "Pyloric sphincter",
+      "C": "Gastroesophageal (cardiac) sphincter",
+      "D": "Ileocecal valve"
+    },
+    "correct": "C",
+    "rationale": "Heartburn occurs when gastric acid regurgitates into the esophagus due to a failure of the gastroesophageal (cardiac) sphincter."
+  },
+  {
+    "id": 98,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A nurse is reviewing a patient’s chest X-ray and notes the esophagus passing through the diaphragm. Which anatomical landmark does this represent?",
+    "choices": {
+      "A": "Cardial orifice",
+      "B": "Esophageal hiatus",
+      "C": "Epiploic foramen",
+      "D": "Porta hepatis"
+    },
+    "correct": "B",
+    "rationale": "The esophagus pierces the diaphragm at the esophageal hiatus."
+  },
+  {
+    "id": 99,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A patient is having difficulty swallowing. The nurse knows the esophagus is a flat muscular tube that is usually collapsed. What is the primary motility pattern that moves food through the esophagus?",
+    "choices": {
+      "A": "Segmentation",
+      "B": "Haustral contractions",
+      "C": "Peristalsis",
+      "D": "Mass movements"
+    },
+    "correct": "C",
+    "rationale": "Motility in the esophagus is by peristalsis (progressive waves of muscle contraction)."
+  },
+  {
+    "id": 100,
+    "section": "Part 2: Oral Cavity, Pharynx, and Esophagus",
+    "stem": "A patient has a tumor in the \"oropharynx.\" Which histological lining should the nurse expect to find in this area?",
+    "choices": {
+      "A": "Simple columnar epithelium",
+      "B": "Simple cuboidal epithelium",
+      "C": "Stratified squamous epithelium",
+      "D": "Pseudostratified ciliated columnar epithelium"
+    },
+    "correct": "C",
+    "rationale": "The pharynx (including oropharynx) is lined by stratified squamous epithelium with mucus-producing glands. -------------------------------------------------------------------------------- Part 3: The Stomach"
+  },
+  {
+    "id": 101,
+    "section": "Part 3: The Stomach",
+    "stem": "A patient presents with pernicious anemia. The nurse understands this may be due to the loss of which cell type in the gastric glands?",
+    "choices": {
+      "A": "Chief cells",
+      "B": "Mucous neck cells",
+      "C": "Parietal cells",
+      "D": "Enteroendocrine cells"
+    },
+    "correct": "C",
+    "rationale": "Parietal cells secrete intrinsic factor, which is required for the absorption of vitamin B12 in the small intestine."
+  },
+  {
+    "id": 102,
+    "section": "Part 3: The Stomach",
+    "stem": "A student is identifying the regions of the stomach on a model. Which region is correctly described as the dome-shaped area beneath the diaphragm?",
+    "choices": {
+      "A": "Cardia",
+      "B": "Body",
+      "C": "Fundus",
+      "D": "Antrum"
+    },
+    "correct": "C",
+    "rationale": "The fundus is the dome-shaped region beneath the diaphragm."
+  },
+  {
+    "id": 103,
+    "section": "Part 3: The Stomach",
+    "stem": "A patient is taking a medication that inhibits the \"G cells\" of the stomach. What would be the primary effect on digestion?",
+    "choices": {
+      "A": "Decreased secretion of gastrin and HCl.",
+      "B": "Increased production of pepsinogen.",
+      "C": "Reduced secretion of thin, acidic mucus.",
+      "D": "Accelerated gastric emptying."
+    },
+    "correct": "A",
+    "rationale": "G cells (enteroendocrine cells) secrete gastrin, which stimulates HCl release."
+  },
+  {
+    "id": 104,
+    "section": "Part 3: The Stomach",
+    "stem": "During the \"Gastric phase\" of secretion, which stimulus leads to the highest release of HCl?",
+    "choices": {
+      "A": "The sight or thought of food.",
+      "B": "Distention of the stomach and a rise in pH.",
+      "C": "The presence of acidic chyme in the duodenum.",
+      "D": "Stimulation by the sympathetic nervous system."
+    },
+    "correct": "B",
+    "rationale": "The gastric phase is triggered by distention, food, and rising pH, lasting 3–4 hours."
+  },
+  {
+    "id": 105,
+    "section": "Part 3: The Stomach",
+    "stem": "A nurse explains to a patient that the stomach has an \"extra\" layer of muscle not found in other GI organs. What is this layer?",
+    "choices": {
+      "A": "Circular layer",
+      "B": "Longitudinal layer",
+      "C": "Oblique layer",
+      "D": "Transverse layer"
+    },
+    "correct": "C",
+    "rationale": "The stomach’s muscularis externa has three layers: circular, longitudinal, and an extra oblique layer."
+  },
+  {
+    "id": 106,
+    "section": "Part 3: The Stomach",
+    "stem": "In the mechanism of HCl secretion, what is the \"alkaline tide\"?",
+    "choices": {
+      "A": "The pump of H+ into the stomach lumen.",
+      "B": "The movement of bicarbonate (HCO3-) out of the parietal cell into the blood.",
+      "C": "The diffusion of CO2 into the parietal cell.",
+      "D": "The activation of pepsinogen by HCl."
+    },
+    "correct": "B",
+    "rationale": "As parietal cells pump H+ into the lumen, HCO3- is exported to the blood, creating an alkaline tide."
+  },
+  {
+    "id": 107,
+    "section": "Part 3: The Stomach",
+    "stem": "A patient’s stomach is empty. The nurse expects to see which anatomical feature upon endoscopy?",
+    "choices": {
+      "A": "Haustra",
+      "B": "Rugae",
+      "C": "Villi",
+      "D": "Circular folds"
+    },
+    "correct": "B",
+    "rationale": "When empty, the stomach mucosa forms many folds called rugae."
+  },
+  {
+    "id": 108,
+    "section": "Part 3: The Stomach",
+    "stem": "Which enzyme is responsible for the chemical digestion of proteins in the stomach?",
+    "choices": {
+      "A": "Salivary amylase",
+      "B": "Pancreatic lipase",
+      "C": "Pepsin",
+      "D": "Trypsin"
+    },
+    "correct": "C",
+    "rationale": "Chief cells secrete pepsinogen, which is activated to pepsin by HCl for protein digestion."
+  },
+  {
+    "id": 109,
+    "section": "Part 3: The Stomach",
+    "stem": "A patient is experiencing \"retropulsion\" in the stomach. The nurse knows this refers to:",
+    "choices": {
+      "A": "The delivery of chyme into the duodenum.",
+      "B": "The movement of the bolus from the fundus to the pylorus.",
+      "C": "The forcing of chyme backward into the stomach to facilitate grinding.",
+      "D": "The relaxation of the gastroesophageal sphincter."
+    },
+    "correct": "C",
+    "rationale": "Retropulsion occurs when the pyloric end forces material backward for further mixing/grinding."
+  },
+  {
+    "id": 110,
+    "section": "Part 3: The Stomach",
+    "stem": "What is the typical pH range of gastric juice produced by parietal cells?",
+    "choices": {
+      "A": "1.5–3.5",
+      "B": "4.5–6.0",
+      "C": "7.0–7.4",
+      "D": "8.0–9.0"
+    },
+    "correct": "A",
+    "rationale": "Parietal cells secrete HCl, creating a pH of 1.5–3.5. -------------------------------------------------------------------------------- Part 4: Small Intestine and Accessory Organs"
+  },
+  {
+    "id": 111,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A patient has a tumor in the \"Duodenum.\" The nurse notes that this organ is mostly:",
+    "choices": {
+      "A": "Intraperitoneal",
+      "B": "Retroperitoneal",
+      "C": "Located in the left iliac region",
+      "D": "Attached to the spleen"
+    },
+    "correct": "B",
+    "rationale": "The duodenum is mostly retroperitoneal and curves around the head of the pancreas."
+  },
+  {
+    "id": 112,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "Which structural modification of the small intestine is responsible for the \"brush border\"?",
+    "choices": {
+      "A": "Circular folds",
+      "B": "Villi",
+      "C": "Microvilli",
+      "D": "Peyer’s patches"
+    },
+    "correct": "C",
+    "rationale": "Microvilli are cytoplasmic extensions that give a fuzzy \"brush border\" appearance and contain enzymes."
+  },
+  {
+    "id": 113,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A patient is unable to digest fats effectively. Which hormone, released by the duodenal mucosa, stimulates the gallbladder to contract and the hepatopancreatic sphincter to relax?",
+    "choices": {
+      "A": "Secretin",
+      "B": "Gastrin",
+      "C": "Cholecystokinin (CCK)",
+      "D": "Motilin"
+    },
+    "correct": "C",
+    "rationale": "CCK stimulates gallbladder contraction and relaxes the hepatopancreatic sphincter."
+  },
+  {
+    "id": 114,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A nurse is reviewing a pathology report of a biopsy from the \"distal part of the small intestine.\" The presence of \"Peyer’s patches\" confirms the biopsy is from which section?",
+    "choices": {
+      "A": "Duodenum",
+      "B": "Jejunum",
+      "C": "Ileum",
+      "D": "Pylorus"
+    },
+    "correct": "C",
+    "rationale": "Peyer’s patches are aggregated lymphoid nodules found in great numbers in the distal part (ileum) of the small intestine."
+  },
+  {
+    "id": 115,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A patient has a blockage in the \"Lacteal\" of the villi. Which nutrient absorption will be most affected?",
+    "choices": {
+      "A": "Glucose",
+      "B": "Amino acids",
+      "C": "Fatty acids",
+      "D": "Vitamin B12"
+    },
+    "correct": "C",
+    "rationale": "Lacteals are lymphatic capillaries in the villi that absorb fatty acids/lipids."
+  },
+  {
+    "id": 116,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "During \"Segmentation\" in the small intestine, what is the primary physiological goal?",
+    "choices": {
+      "A": "Rapid propulsion of food toward the large intestine.",
+      "B": "Mixing chyme with digestive secretions and mechanical breakdown of fat droplets.",
+      "C": "Closure of the ileocecal valve.",
+      "D": "Secretion of intrinsic factor."
+    },
+    "correct": "B",
+    "rationale": "Segmentation involves nonadjacent segments contracting/relaxing to mix food and slow its propulsion."
+  },
+  {
+    "id": 117,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "Which enzyme is a \"Brush border enzyme\" used for the final stage of carbohydrate digestion?",
+    "choices": {
+      "A": "Pancreatic amylase",
+      "B": "Lactase",
+      "C": "Pepsin",
+      "D": "Trypsin"
+    },
+    "correct": "B",
+    "rationale": "Lactase, maltase, and sucrase are brush border enzymes that break disaccharides into monosaccharides."
+  },
+  {
+    "id": 118,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A patient is diagnosed with an infection of the \"Kupffer cells.\" In which organ are these cells located?",
+    "choices": {
+      "A": "Pancreas",
+      "B": "Spleen",
+      "C": "Liver",
+      "D": "Gallbladder"
+    },
+    "correct": "C",
+    "rationale": "Kupffer cells (hepatic macrophages) are located in the liver sinusoids."
+  },
+  {
+    "id": 119,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A nurse is teaching a student about the \"Portal Triad.\" Which three structures are found at the corner of each liver lobule?",
+    "choices": {
+      "A": "Central vein, Hepatic artery, Bile duct.",
+      "B": "Branch of hepatic artery, Branch of hepatic portal vein, Bile duct.",
+      "C": "Hepatic vein, Cystic duct, Portal vein.",
+      "D": "Left hepatic duct, Right hepatic duct, Common hepatic duct."
+    },
+    "correct": "B",
+    "rationale": "The portal triad consists of a branch of the hepatic artery, a branch of the hepatic portal vein, and a bile duct."
+  },
+  {
+    "id": 120,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "Bile salts are essential for which process?",
+    "choices": {
+      "A": "Chemical digestion of proteins.",
+      "B": "Emulsification of fats.",
+      "C": "Absorption of Vitamin K.",
+      "D": "Neutralization of HCl."
+    },
+    "correct": "B",
+    "rationale": "Bile salts emulsify fat, breaking it into small droplets for lipase action."
+  },
+  {
+    "id": 121,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A patient’s bile duct is blocked by a stone. The nurse knows that the common bile duct (CBD) is formed by the union of which two ducts?",
+    "choices": {
+      "A": "Right and left hepatic ducts.",
+      "B": "Common hepatic duct and cystic duct.",
+      "C": "Cystic duct and pancreatic duct.",
+      "D": "Common hepatic duct and pancreatic duct."
+    },
+    "correct": "B",
+    "rationale": "The common hepatic duct (CHD) is joined by the cystic duct to form the common bile duct (CBD)."
+  },
+  {
+    "id": 122,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "The \"Ampulla of Vater\" (hepatopancreatic ampulla) opens into which part of the GI tract?",
+    "choices": {
+      "A": "First part of the duodenum.",
+      "B": "Second part of the duodenum.",
+      "C": "Jejunum.",
+      "D": "Cardia of the stomach."
+    },
+    "correct": "B",
+    "rationale": "The ampulla opens into the 2nd part of the duodenum at the major duodenal papilla."
+  },
+  {
+    "id": 123,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "A patient is diagnosed with \"Pancreatitis.\" The nurse knows the exocrine function of the pancreas involves \"Acini\" that produce:",
+    "choices": {
+      "A": "Insulin and glucagon.",
+      "B": "Zymogen granules containing proenzymes.",
+      "C": "Hydrochloric acid and intrinsic factor.",
+      "D": "Bile salts and bilirubin."
+    },
+    "correct": "B",
+    "rationale": "Acini are clusters of secretory cells that produce pancreatic juice/proenzymes (exocrine function)."
+  },
+  {
+    "id": 124,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "Which hormone stimulates the pancreas to secrete a juice rich in bicarbonate ions?",
+    "choices": {
+      "A": "Gastrin",
+      "B": "CCK",
+      "C": "Secretin",
+      "D": "Histamine"
+    },
+    "correct": "C",
+    "rationale": "Secretin increases the output of pancreatic juice rich in bicarbonate ions."
+  },
+  {
+    "id": 125,
+    "section": "Part 4: Small Intestine and Accessory Organs",
+    "stem": "What is the \"Enterohepatic circulation\"?",
+    "choices": {
+      "A": "The movement of food through the small intestine.",
+      "B": "The recycling of bile salts from the ileum back to the liver via the portal vein.",
+      "C": "The drainage of blood from the liver into the inferior vena cava.",
+      "D": "The secretion of hormones from the duodenum to the pancreas."
+    },
+    "correct": "B",
+    "rationale": "95% of bile salts are reabsorbed in the ileum and returned to the liver via the portal vein. -------------------------------------------------------------------------------- Part 5: Large Intestine and Nutrient Absorption"
+  },
+  {
+    "id": 126,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "A patient is scheduled for an \"Appendectomy.\" The nurse knows the appendix is attached to which part of the large intestine?",
+    "choices": {
+      "A": "Cecum",
+      "B": "Ascending colon",
+      "C": "Sigmoid colon",
+      "D": "Rectum"
+    },
+    "correct": "A",
+    "rationale": "The appendix is a mass of lymphoid tissue attached to the cecum."
+  },
+  {
+    "id": 127,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "While reviewing the anatomy of the large intestine, the nurse identifies \"Teniae coli.\" What are these?",
+    "choices": {
+      "A": "Pocketlike sacs in the colon wall.",
+      "B": "Fat-filled pouches of visceral peritoneum.",
+      "C": "Three bands of longitudinal smooth muscle.",
+      "D": "Permanent circular folds of the mucosa."
+    },
+    "correct": "C",
+    "rationale": "Teniae coli are three bands of longitudinal smooth muscle in the muscularis."
+  },
+  {
+    "id": 128,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "A patient reports pain in the \"left colic flexure.\" Where is this located?",
+    "choices": {
+      "A": "Between the cecum and ascending colon.",
+      "B": "Between the ascending and transverse colon.",
+      "C": "Between the transverse and descending colon.",
+      "D": "Between the descending and sigmoid colon."
+    },
+    "correct": "C",
+    "rationale": "The left colic (splenic) flexure is the turn between the transverse and descending colon."
+  },
+  {
+    "id": 129,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "The nurse explains to a patient that \"bacterial flora\" in the large intestine are beneficial because they:",
+    "choices": {
+      "A": "Produce HCl to kill bacteria.",
+      "B": "Synthesize B complex vitamins and Vitamin K.",
+      "C": "Secrete brush border enzymes for protein digestion.",
+      "D": "Emulsify fats for absorption."
+    },
+    "correct": "B",
+    "rationale": "Resident bacteria synthesize B-complex vitamins and Vitamin K."
+  },
+  {
+    "id": 130,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "During the defecation reflex, which event is under voluntary control?",
+    "choices": {
+      "A": "Distention of the rectum.",
+      "B": "Contraction of the sigmoid colon.",
+      "C": "Relaxation of the internal anal sphincter.",
+      "D": "Relaxation of the external anal sphincter."
+    },
+    "correct": "D",
+    "rationale": "The external anal sphincter is composed of skeletal muscle and is under voluntary control."
+  },
+  {
+    "id": 131,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "Which nutrient requires \"cotransport with sodium ions\" for absorption in the small intestine?",
+    "choices": {
+      "A": "Fructose",
+      "B": "Glucose and Galactose",
+      "C": "Fatty acids",
+      "D": "Vitamin D"
+    },
+    "correct": "B",
+    "rationale": "Glucose and galactose are absorbed via cotransport with sodium ions."
+  },
+  {
+    "id": 132,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "A patient has a condition that reduces \"Pancreatic Lipase\" secretion. Which digestive process will be impaired?",
+    "choices": {
+      "A": "Breakdown of starch into oligosaccharides.",
+      "B": "Breakdown of triglycerides into fatty acids and monoglycerides.",
+      "C": "Breakdown of proteins into amino acids.",
+      "D": "Breakdown of nucleic acids into nucleotides."
+    },
+    "correct": "B",
+    "rationale": "Pancreatic lipase breaks lipids (fats) into fatty acids and glycerol/monoglycerides."
+  },
+  {
+    "id": 133,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "How are \"Chylomicrons\" transported away from the intestinal mucosa?",
+    "choices": {
+      "A": "Via the hepatic portal vein to the liver.",
+      "B": "Via the capillaries to the systemic circulation.",
+      "C": "Via the lacteals and the lymphatic system.",
+      "D": "Via the bile duct to the gallbladder."
+    },
+    "correct": "C",
+    "rationale": "Chylomicrons enter lacteals and are carried away in lymph."
+  },
+  {
+    "id": 134,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "A patient has an injury below the \"Pectinate line\" in the anal canal. The nurse should assess for:",
+    "choices": {
+      "A": "Dull, poorly localized visceral pain.",
+      "B": "Sharp somatic pain, as the region is sensitive to pain.",
+      "C": "Presence of Peyer’s patches.",
+      "D": "Secretion of intrinsic factor."
+    },
+    "correct": "B",
+    "rationale": "The region inferior to the pectinate line is innervated by somatic nerves and is sensitive to pain."
+  },
+  {
+    "id": 135,
+    "section": "Part 5: Large Intestine and Nutrient Absorption",
+    "stem": "What is the primary function of the \"Haustra\" in the large intestine?",
+    "choices": {
+      "A": "Increasing surface area for nutrient absorption.",
+      "B": "Pocketlike sacs that facilitate slow segmental movement.",
+      "C": "Production of vitamin K.",
+      "D": "Storage of bile."
+    },
+    "correct": "B",
+    "rationale": "Haustra are pocketlike sacs caused by the tone of teniae coli; haustral contractions provide slow segmental movement. -------------------------------------------------------------------------------- Part 6: Physical Assessment and Clinical Correlation"
+  },
+  {
+    "id": 136,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A nurse is preparing to perform a physical assessment of a patient's abdomen. In what order should the assessment techniques be performed?",
+    "choices": {
+      "A": "Inspection, Palpation, Percussion, Auscultation.",
+      "B": "Inspection, Auscultation, Percussion, Palpation.",
+      "C": "Auscultation, Inspection, Palpation, Percussion.",
+      "D": "Palpation, Percussion, Auscultation, Inspection."
+    },
+    "correct": "B",
+    "rationale": "Auscultation should be performed after inspection and before percussion/palpation to avoid inducing changes in bowel sounds."
+  },
+  {
+    "id": 137,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "During inspection, the nurse notes \"Caput medusae\" (enlarged veins on the abdomen). This is a clinical sign of which condition?",
+    "choices": {
+      "A": "Appendicitis",
+      "B": "Cholecystitis",
+      "C": "Portal Hypertension",
+      "D": "Bowel Obstruction"
+    },
+    "correct": "C",
+    "rationale": "Caput medusae is associated with portal hypertension."
+  },
+  {
+    "id": 138,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A patient reports sharp pain when the nurse rapidly removes their hand after deep palpation. What is the name of this finding?",
+    "choices": {
+      "A": "Guarding",
+      "B": "Rebound tenderness",
+      "C": "Borborygmi",
+      "D": "Palmar erythema"
+    },
+    "correct": "B",
+    "rationale": "Rebound tenderness is pain worsened on releasing pressure, suggesting peritoneal irritation (peritonitis)."
+  },
+  {
+    "id": 139,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "While percussing the abdomen, the nurse hears a \"tympany\" sound. Where is this sound typically heard?",
+    "choices": {
+      "A": "Over solid organs like the liver.",
+      "B": "Over a full bladder.",
+      "C": "Over air-filled sections of the stomach or intestine.",
+      "D": "Over the heart."
+    },
+    "correct": "C",
+    "rationale": "Tympany is the predominant sound heard over air-filled sections of the stomach/intestine."
+  },
+  {
+    "id": 140,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "The nurse is assessing for \"Ascites.\" Which test involves tapping one side of the abdomen and feeling for a wave transmission on the other side?",
+    "choices": {
+      "A": "Shifting dullness test",
+      "B": "Fluid thrill test",
+      "C": "McBurney’s point palpation",
+      "D": "Rovsing’s sign"
+    },
+    "correct": "B",
+    "rationale": "The fluid thrill test involves feeling for a palpable wave transmitted across the abdomen."
+  },
+  {
+    "id": 141,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A patient is suspected of having \"Appendicitis.\" The nurse palpates the \"Left Lower Quadrant\" (LLQ), and the patient feels pain in the \"Right Lower Quadrant\" (RLQ). What is this sign called?",
+    "choices": {
+      "A": "Murphy’s Sign",
+      "B": "McBurney’s Sign",
+      "C": "Rovsing’s Sign",
+      "D": "Psoas Sign"
+    },
+    "correct": "C",
+    "rationale": "Rovsing’s sign is when palpation in the left iliac fossa produces pain in the right iliac fossa."
+  },
+  {
+    "id": 142,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A nurse is measuring the \"Liver span\" at the midclavicular line (MCL). What is the normal range?",
+    "choices": {
+      "A": "2–4 cm",
+      "B": "6–12 cm",
+      "C": "15–20 cm",
+      "D": "1–2 cm"
+    },
+    "correct": "B",
+    "rationale": "The normal liver span at the MCL is 6–12 cm."
+  },
+  {
+    "id": 143,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "During a general examination, the nurse notes \"Koilonychia\" (spooning of the nails). This finding is associated with which condition?",
+    "choices": {
+      "A": "Liver failure",
+      "B": "Chronic iron deficiency anemia",
+      "C": "Cirrhosis",
+      "D": "Coeliac disease"
+    },
+    "correct": "B",
+    "rationale": "Koilonychia suggests chronic iron deficiency anemia."
+  },
+  {
+    "id": 144,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A patient has \"Leukonychia\" (whitened nail beds). The nurse knows this may be a sign of:",
+    "choices": {
+      "A": "GI bleeding",
+      "B": "Hypoalbuminemia or liver failure",
+      "C": "Excessive alcohol intake",
+      "D": "Acute appendicitis"
+    },
+    "correct": "B",
+    "rationale": "Leukonychia is associated with hypoalbuminemia or liver failure."
+  },
+  {
+    "id": 145,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "While assessing the mouth, the nurse identifies a \"Lingual frenulum.\" What is its function?",
+    "choices": {
+      "A": "Secretion of salivary amylase.",
+      "B": "Attachment of the tongue to the floor of the mouth.",
+      "C": "Separation of the nasopharynx from the oropharynx.",
+      "D": "Mechanical breakdown of food."
+    },
+    "correct": "B",
+    "rationale": "The lingual frenulum attaches the tongue to the floor of the mouth."
+  },
+  {
+    "id": 146,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A nurse is performing \"Light palpation\" on a patient’s abdomen. What is the standard depth for this technique?",
+    "choices": {
+      "A": "1 cm",
+      "B": "5–6 cm",
+      "C": "10 cm",
+      "D": "0.5 cm"
+    },
+    "correct": "A",
+    "rationale": "Light palpation is performed to a depth of 1 cm."
+  },
+  {
+    "id": 147,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A patient presents with \"Jaundice\" (icterus). Where is the best place for the nurse to inspect for this sign?",
+    "choices": {
+      "A": "Palms of the hands",
+      "B": "Sclera of the eyes",
+      "C": "The umbilicus",
+      "D": "The buccal mucosa"
+    },
+    "correct": "B",
+    "rationale": "Jaundice is best assessed in the sclera of the eyes."
+  },
+  {
+    "id": 148,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A patient is observed to have \"Dupuytren’s contracture.\" This thickening of the palmar fascia is often associated with:",
+    "choices": {
+      "A": "Iron deficiency",
+      "B": "Excess alcohol intake",
+      "C": "Vitamin K deficiency",
+      "D": "Chronic diarrhea"
+    },
+    "correct": "B",
+    "rationale": "Dupuytren’s contracture is associated with excess alcohol intake or family history."
+  },
+  {
+    "id": 149,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "When percussing the spleen, the nurse knows that \"Splenomegaly\" is typically only detected when the spleen enlarges to what degree?",
+    "choices": {
+      "A": "1.5 times its normal size",
+      "B": "2 times its normal size",
+      "C": "3 times its normal size",
+      "D": "5 times its normal size"
+    },
+    "correct": "C",
+    "rationale": "Splenomegaly is detected when the spleen enlarges 3 times its normal size."
+  },
+  {
+    "id": 150,
+    "section": "Part 6: Physical Assessment and Clinical Correlation",
+    "stem": "A patient has \"Hyperactive\" bowel sounds. The nurse knows this might indicate:",
+    "choices": {
+      "A": "Late bowel obstruction",
+      "B": "Early bowel obstruction",
+      "C": "Peritonitis",
+      "D": "Normal digestion"
+    },
+    "correct": "B",
+    "rationale": "Hyperactive bowel sounds (5-6 sounds in < 30 secs) can indicate early obstruction. -------------------------------------------------------------------------------- Part 7: Integrated Physiology and Regulation"
+  },
+  {
+    "id": 151,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "Which nervous system is considered \"self-contained\" (intrinsic) and regulates GI motility and secretory activity?",
+    "choices": {
+      "A": "Somatic Nervous System",
+      "B": "Enteric Nervous System (ENS)",
+      "C": "Central Nervous System",
+      "D": "Sympathetic Nervous System"
+    },
+    "correct": "B",
+    "rationale": "The Enteric Nervous System (ENS) is the intrinsic nerve supply to the GI tract wall."
+  },
+  {
+    "id": 152,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "A patient is salivating at the smell of food. This is an example of which phase of gastric regulation?",
+    "choices": {
+      "A": "Gastric phase",
+      "B": "Intestinal phase",
+      "C": "Cephalic phase",
+      "D": "Buccal phase"
+    },
+    "correct": "C",
+    "rationale": "The cephalic phase occurs before food enters the stomach, triggered by smell, taste, sight, or thought."
+  },
+  {
+    "id": 153,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "What is the \"Migrating Motor Complex\"?",
+    "choices": {
+      "A": "A reflex that causes defecation.",
+      "B": "A pattern of peristaltic activity during fasting, stimulated by motilin.",
+      "C": "The movement of the bolus through the pharynx.",
+      "D": "The recycling of bile salts."
+    },
+    "correct": "B",
+    "rationale": "Motilin stimulates the migrating motor complex every 1.5–2 hours during fasting."
+  },
+  {
+    "id": 154,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "A patient is experiencing \"Reverse peristalsis.\" This is a key physiological component of which process?",
+    "choices": {
+      "A": "Segmentation",
+      "B": "Defecation",
+      "C": "Vomiting",
+      "D": "Deglutition"
+    },
+    "correct": "C",
+    "rationale": "Vomiting involves reverse peristalsis in the small intestine."
+  },
+  {
+    "id": 155,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "Which hormone inhibits gastric gland secretion and gastric motility when the stomach is too empty or chyme is too fatty?",
+    "choices": {
+      "A": "Gastrin",
+      "B": "Enterogastrones (like CCK and Secretin)",
+      "C": "Histamine",
+      "D": "Serotonin"
+    },
+    "correct": "B",
+    "rationale": "CCK and Secretin inhibit the stomach’s secretory activity and motility."
+  },
+  {
+    "id": 156,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "The \"Round ligament\" (ligamentum teres) of the liver is a remnant of which fetal structure?",
+    "choices": {
+      "A": "Ductus venosus",
+      "B": "Umbilical vein",
+      "C": "Umbilical artery",
+      "D": "Foramen ovale"
+    },
+    "correct": "B",
+    "rationale": "The round ligament is the remnant of the fetal umbilical vein."
+  },
+  {
+    "id": 157,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "A patient has a deficiency in \"Vitamin K.\" The nurse knows this will primarily affect the liver's ability to:",
+    "choices": {
+      "A": "Store iron.",
+      "B": "Synthesize blood clotting factors.",
+      "C": "Produce bile salts.",
+      "D": "Detoxify drugs."
+    },
+    "correct": "B",
+    "rationale": "Vitamin K is essential for the synthesis of blood clotting factors in the liver."
+  },
+  {
+    "id": 158,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "Which digestive enzyme is responsible for breaking down nucleic acids?",
+    "choices": {
+      "A": "Amylase",
+      "B": "Lipase",
+      "C": "Nuclease",
+      "D": "Pepsin"
+    },
+    "correct": "C",
+    "rationale": "Nucleases break down nucleic acids into nucleotides."
+  },
+  {
+    "id": 159,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "What is the role of \"Vasoactive Intestinal Peptide\" (VIP)?",
+    "choices": {
+      "A": "Stimulates HCl release.",
+      "B": "Causes contraction of the gallbladder.",
+      "C": "Stimulates buffer secretion and dilates intestinal capillaries.",
+      "D": "Inhibits insulin release."
+    },
+    "correct": "C",
+    "rationale": "VIP stimulates buffer secretion, dilates capillaries, and relaxes intestinal smooth muscle."
+  },
+  {
+    "id": 160,
+    "section": "Part 7: Integrated Physiology and Regulation",
+    "stem": "A patient's feces are observed to be a brown color. This is primarily due to:",
+    "choices": {
+      "A": "Undigested carbohydrates.",
+      "B": "Bile pigments.",
+      "C": "Fatty acids.",
+      "D": "Pancreatic lipase."
+    },
+    "correct": "B",
+    "rationale": "Bile pigments are responsible for the brown color of feces."
   }
 ]
